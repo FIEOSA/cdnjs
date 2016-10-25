@@ -16,7 +16,7 @@
     "type": "git",
     "url": "https://github.com/fieosa/webcomponent-mdl.git"
   },
-  "homepage": "https://github.com/fieosa/webcomponent-mdl",
+  "homepage": "https://fieosa.github.io/webcomponent-mdl/",
   "autoupdate": {
     "source": "git",
     "target": "git://github.com/fieosa/webcomponent-mdl.git",
